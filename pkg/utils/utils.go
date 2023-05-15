@@ -9,7 +9,7 @@ import (
 
 const (
 	letterBytes = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
-	PORT        = "/8080"
+	PORT        = ":8080"
 )
 
 var (
